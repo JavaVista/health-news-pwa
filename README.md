@@ -1,2 +1,3 @@
-# health-news-pwa
-A PWA with my own WebComponents 
+# Health News PWA
+
+A PWA with my own WebComponents
